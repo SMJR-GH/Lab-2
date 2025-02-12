@@ -33,8 +33,8 @@ The project implements:
 ### How to Run the Code
 1. **Clone the repository**:
    ```sh
-   git clone <your-repo-url>
-   cd <your-repo-name>
+   git clone https://github.com/SMJR-GH/Lab-2.git
+   cd <repo-name>
    ```
 2. **Install required dependencies**:
    ```sh
@@ -52,6 +52,6 @@ The model outputs:
 - **Classification Report**: Precision, recall, and F1-score.
 
 ### GitHub Repository
-🔗 [Your GitHub Repository](<your-repo-link>)
+🔗 [Your GitHub Repository] https://github.com/SMJR-GH/Lab-2.git
 
 
